@@ -1,5 +1,6 @@
-1. Flask
-2. sklearn
-3. pandas
-4. numpy
-5. matplotlib
+Flask
+sklearn
+pandas
+numpy
+matplotlib
+gunicorn
